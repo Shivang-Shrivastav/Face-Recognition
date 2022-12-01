@@ -1,2 +1,3 @@
-# Face-Recognition
-Zero Shot - Face Recognition
+# One_Shot_Learning
+
+## Please refer the document attached to this repo
